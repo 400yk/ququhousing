@@ -1,0 +1,100 @@
+AccessKey.csv
+QuquHousing-server/model/users.json
+QuquHousing-client/dist/dist.zip
+QuquHousing-server/database/customAnalysis
+ColorRange.pptx
+servercode.zip
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Cache
+.cache/
+.npm/
+.eslintcache
+.vercel
+
+# Coverage
+coverage
+*.lcov
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+*.sublime-workspace
+
+# Temp files
+tmp/
+temp/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Database files
+*.db
+QuquHousing-server/database/*.db
+QuquHousing-server/Server_db.db
+
+# Environment files
+.env.*
+!.env.example
+
+# Node modules
+node_modules/
+
+# Build files
+/build
+/dist
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-*
+
+# Temp files
+*.tmp
+*.bak
+*.swp

@@ -1,0 +1,18 @@
+{
+  "env": {
+    "browser": false,
+    "es2021": false
+  },
+  "extends": [],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": false
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": [],
+  "rules": {
+  },
+  "settings": { "import/resolver": { "node": { "paths": ["src"] } } }
+}
